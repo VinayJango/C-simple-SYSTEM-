@@ -9,7 +9,7 @@ int main()
     string Full_name, Bank_name, Account_number, datet, dater;
     int user_input;
     cout << "---------------------------------------------------------------------------------------------" <<endl;
-    cout << "GHANASHALI ENTERPRISES SYSv0.1 --- {DEVELOPER-Vinay_jangam}" <<endl;
+    cout << "{ENTER NAME FOR ORG} SYSv0.1 --- {DEVELOPER-Vinay_jangam}" <<endl;
     cout << "---------------------------------------------------------------------------------------------" <<endl;
     cout << "Enter Name: ";
     cin >> Full_name;
