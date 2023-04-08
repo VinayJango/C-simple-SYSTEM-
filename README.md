@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinay Jangam</h1>
-<h3 align="center">Hello World~!</h3>
+<h1 align="left">Hi 👋, I'm Vinay Jangam</h1>
+<h3 align="left">Hello World~!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayjango" alt="vinayjango" /></a> </p>
 
