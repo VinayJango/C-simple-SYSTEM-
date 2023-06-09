@@ -1,7 +1,7 @@
-\//***************************************************************
+//***************************************************************
 //                   HEADER FILE USED IN PROJECT
 //****************************************************************
-
+//Author - VinayJango
 #include<iostream>
 #include<fstream>
 #include<cctype>
@@ -382,3 +382,4 @@ void intro()
 	cout<<"\n\nSCHOOL : your school name";
 	cin.get();
 }
+//Author - VinayJango
